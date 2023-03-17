@@ -13,4 +13,4 @@ To use the OpenAI ChatGPT API Tool, follow these steps:
 5.	Follow the prompts to enter your OpenAI API key and ask questions.
 Why it helps
 The ChatGPT API Tool is a convenient and easy-to-use way to interact with the OpenAI ChatGPT API. By providing a command-line interface, it allows you to quickly ask questions and receive answers without having to navigate through a web interface or build your own custom application. Additionally, by saving the history of questions asked to a file, it provides a useful reference for future use.
-![image](https://user-images.githubusercontent.com/127657072/225926153-572dca14-03d2-42dd-b529-18df3ddc681d.png)
+
